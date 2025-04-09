@@ -1,9 +1,13 @@
-﻿# Lockdowns
+# Lockdowns
 
  > **"Lockdowns são o maior erro de saúde pública já cometido  na história."**
 > 
  > Prof. Martin Kulldorff, professor de medicina da Univ. de Harvard. 
- 
+
+## RELATÓRIO FINAL
+
+- [COVID Select conclui investigação de 2 anos, emite relatório final de 500+ páginas sobre as lições aprendidas e o caminho a seguir...](https://github.com/araguaci/lockdowns/blob/main/relatorio-covid.md)
+
 
 ## A ORGANIZAÇÃO MUNDIAL DA SAÚDE É CONTRA LOCKDOWN 
  
