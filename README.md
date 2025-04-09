@@ -10,7 +10,8 @@
 Em outubro de 2020, a OMS se posicionou oficialmente pedindo aos governos do mundo pararem de usar lockdowns como intervenção primária devido aos catastróficos danos que eles 
 causam. 
 
- - [Referência](https://www.msn.com/en-us/health/medical/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method/ar-BB19TBUo)
+ - ~~[Referência](https://www.msn.com/en-us/health/medical/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method/ar-BB19TBUo)~~
+ - [Wayback Machine](https://web.archive.org/web/20201101045343/https://www.msn.com/en-us/health/medical/who-official-urges-world-leaders-to-stop-using-lockdowns-as-primary-virus-control-method/ar-BB19TBUo)
  
  
  
@@ -22,7 +23,8 @@ Apesar de ser "intuitivo" se acreditar que ao se limitar a mobilidade das pessoa
 
 Estudo recém publicado na conceituada revista Nature e conduzido no Brasil pela UFRS e  UNISINOS:  Ao analisar uma possível associação entre lockdowns e redução/aumento de número de  mortes atribuídas a COVID em 87 regiões ao redor do mundo o estudo conclui: **"Com nossos  resultados, nós não conseguimos mostrar que a mortalidade por COVID foi reduzida pelo uso  de lockdowns em 98% dos casos."** 
 
- - [Referência](https://www.nature.com/articles/s41598-021-84092-1)
+ - ~~[Referência](https://www.nature.com/articles/s41598-021-84092-1)~~
+ - [Wayback Machine](https://web.archive.org/web/20210815215101/https://www.nature.com/articles/s41598-021-84092-1)
  
 ### Jornal Europeu de Investigação
 
